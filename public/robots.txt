@@ -1,0 +1,14 @@
+# FİLİSTİN GERİ DÖNÜŞ DERNEĞİ
+# Bu site hiçbir arama motorunda arşivlenmemelidir.
+User-agent: *
+Disallow: /
+
+# Bilinen bazı botları da açıkça engelle
+User-agent: Googlebot
+Disallow: /
+
+User-agent: Bingbot
+Disallow: /
+
+User-agent: Yandex
+Disallow: /

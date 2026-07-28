@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cd \"/Users/mhmdhsyn/Downloads/react-js/FİLİSTİN GERİ DÖNÜŞ\" && ls -la && echo \"---DOWNLOADS---\" && ls -la /Users/mhmdhsyn/Downloads/ | head -30)",
+      "Bash(python3 -c ' *)",
+      "Bash(npm -v)",
+      "Bash(cd \"/Users/mhmdhsyn/Downloads/react-js/FİLİSTİN GERİ DÖNÜŞ\" && mkdir -p public src/components src/pages src/data src/styles && cp /Users/mhmdhsyn/Downloads/Favicon.svg public/favicon.svg && ls -R public src | head -40)",
+      "Bash(npm install *)",
+      "Bash(node -e \"const p=require\\('./node_modules/vite/package.json'\\); console.log\\('vite', p.version\\); const r=require\\('./node_modules/react/package.json'\\); console.log\\('react', r.version\\); const rr=require\\('./node_modules/react-router-dom/package.json'\\); console.log\\('react-router-dom', rr.version\\)\")",
+      "Bash(npm run *)",
+      "Bash(python3)",
+      "Read(//Users/mhmdhsyn/Downloads/**)",
+      "Bash(cp \"/Users/mhmdhsyn/Downloads/Logo Dark.svg\" \"/private/tmp/claude-501/-Users-mhmdhsyn-Downloads-react-js-F-L-ST-N-GER--D-N--/4234ca8d-d9a5-4aa5-8857-7306f41c67b8/scratchpad/logo-view.svg\" && echo done)",
+      "Bash(printf '<div style=\"background:#0b3d2e;padding:30px;display:inline-block\">')",
+      "Bash(cat \"/Users/mhmdhsyn/Downloads/Logo Dark.svg\")",
+      "Bash(printf '</div>')"
+    ]
+  }
+}
